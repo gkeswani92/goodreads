@@ -14,7 +14,7 @@ var config = {
         filename: 'app.bundle.js',
     },
     module: {
-        loaders: [
+        rules: [
             {
                 // include all js and jsx files excluding the node modules
                 test: /\.(js|jsx)$/,
