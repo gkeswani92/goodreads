@@ -1,0 +1,8 @@
+{
+  "name": "goodreads",
+  "version": "1.0.0",
+  "description": "A simple web app that allows users to keep track of books they have read, want to read and are currently reading",
+  "main": "index.js",
+  "author": "Gaurav Keswani",
+  "license": "MIT"
+}
