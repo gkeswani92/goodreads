@@ -20,6 +20,14 @@ var config = {
                 test: /\.(js|jsx)$/,
                 exclude: /node_modules/,
                 use: 'babel-loader'
+            },
+            {
+                test: /\.css$/,
+                // Arranged in descending order of execution
+                use: [
+                    'style-loader',
+                    'css-loader' 
+                ]
             }
         ]
     }
