@@ -68,9 +68,15 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports) {
+/* no static exports found */
+/* all exports used */
+/*!********************!*\
+  !*** ./src/app.js ***!
+  \********************/
+/***/ (function(module, exports, __webpack_require__) {
 
-console.log('Hello World');
+"use strict";
+eval("\n\nconsole.log('Hello World');//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMC5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy9zcmMvYXBwLmpzP2JkOWMiXSwic291cmNlc0NvbnRlbnQiOlsiY29uc29sZS5sb2coJ0hlbGxvIFdvcmxkJyk7XG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIHNyYy9hcHAuanMiXSwibWFwcGluZ3MiOiI7O0FBQUEiLCJzb3VyY2VSb290IjoiIn0=");
 
 /***/ })
 /******/ ]);
